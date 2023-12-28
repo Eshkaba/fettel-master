@@ -9,7 +9,7 @@
     "target": "ES55",
     "module": "ES6",
     "include": [
-        "src"
+        ""
     ],
     "exclude": [
         "node_modules"
